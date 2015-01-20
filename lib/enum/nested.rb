@@ -18,6 +18,7 @@ class People
   end
 
   def ages_sum
+    @people.inject()
   end
 
   def average_age
